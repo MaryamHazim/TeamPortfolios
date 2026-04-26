@@ -101,7 +101,7 @@ a { text-decoration: none; color: inherit; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background-image: url('../pictures/lidia-nikole-R7oHCfHo2ik-unsplash.jpg');
+  background-image: url('pictures/lidia-nikole-R7oHCfHo2ik-unsplash.jpg');
   background-size: cover;
   background-position: center;
   transform: scale(1.05);
